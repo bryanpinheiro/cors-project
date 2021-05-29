@@ -1,4 +1,7 @@
 # cors-project
+![dependencies](https://img.shields.io/david/bryansouza/cors-project)
+![typescript](https://img.shields.io/github/languages/top/bryansouza/cors-project)
+
 Cross-origin resource sharing (CORS) restrict an API to share its resources only to specified **hosts**.
 
 ## http-server
