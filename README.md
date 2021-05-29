@@ -7,3 +7,20 @@ This package allows us to serve static files. The code below sets the port to `8
 ```
 http-server --port 8080 -a localhost
 ```
+
+## Usage
+### 1. Installing dependencies
+```
+yarn install
+```
+
+### 2. Starting the server
+```
+yarn run dev:server
+```
+
+### 3. Starting the client
+```
+yarn run dev:client
+```
+
